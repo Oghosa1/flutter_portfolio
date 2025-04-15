@@ -13,7 +13,7 @@ String username = "Flutter Mobile Developer";
 
 //Link to resume on Google Drive
 String resumeLink =
-    "https://drive.google.com/file/d/1q2HHOKnBn_TaIPgh8WoyTvzTqmrYGW4x/view?usp=drive_link";
+    "https://drive.google.com/file/d/1Kwb6Lb1sjT4oqmySM6d3JaDXpKuSkWrd/view?usp=sharing";
 
 //Contact Email
 String contactEmail = "jarviz101@gmail.com";
